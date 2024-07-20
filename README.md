@@ -16,7 +16,7 @@ The dataset underwent the following cleaning steps to ensure data integrity and 
 - **Removed Null Values:** Rows containing null values were deleted to maintain data quality.
 - **Date Format Modification:** The original date format (mm/dd/yyyy) was converted to (dd/mm/yyyy) for consistency and compatibility across regions.
 # Screenshot
-  ! [screenshot](Dashboard%20Image.png) 
+  ![screenshot](Dashboard%20Image.png) 
 # Insights :
 ## Regional Performance:
 West and East Regions lead in both sales (61%) and profit contribution (70%), showing strong performance.
